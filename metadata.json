@@ -1,0 +1,9 @@
+{
+  "name": "Gemini Live Screen Sharer",
+  "description": "A high-performance React application demonstrating real-time screen sharing and voice interaction using the Gemini 2.5 Flash Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
